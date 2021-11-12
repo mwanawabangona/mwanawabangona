@@ -4,8 +4,6 @@
 
 A JavaScript developer from Zambia. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 
-[![Twitter Follow](https://twitter.com/Ellis_aah)][twitter] [![Twitch Status](https://img.shields.io/twitch/status/dani_akash_?label=LiveStream&style=for-the-badge)][twitch] [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/dani_akash_?style=for-the-badge)][reddit]
-
 ### I'm Currently
 
 - 📱 Building a cool mobile app 
