@@ -1,6 +1,8 @@
-### I'm Ellis
+### Hi!✌️ I'm Ellis
 
-A JavaScript developer from Zambia. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer"></a>
+</p>
 
 ### I'm Currently
 
