@@ -20,6 +20,8 @@
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=mwanawabangona&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 ### Active projects from my [Trello Board][trello-board]
 
 [<img src="https://readme-stats.vercel.app/api/get-trello-cards" />][trello-board]
