@@ -1,7 +1,7 @@
 ### Hi! I'm [Ellis Ng'ona!](https://ellismyportfolio.netlify.app/) 👋
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer"></a>
+  <a href="https://github.com/mwanawabangona/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
